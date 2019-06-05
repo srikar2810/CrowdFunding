@@ -1,0 +1,8 @@
+truffle commands
+
+truffle init 
+truffle unbox metacoin  demo project
+truffle compile		compile contracts
+truffle develop		start test ethereum network
+truffle test  run tests
+truffle migrate	 deploy smrt cntrcts 

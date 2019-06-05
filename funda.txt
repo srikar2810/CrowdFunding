@@ -1,0 +1,4 @@
+internal -> cannot be accessed from outside but can be accessed by child contract
+
+private -> can be accessed neither from outside nor from a child contract
+
